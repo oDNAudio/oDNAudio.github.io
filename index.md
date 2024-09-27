@@ -12,10 +12,11 @@ author_profile: true
   </tr>
 </table>
 
-I am a PhD Economics candidate at the Vienna University of Economics and Business (WU Wien). My research interests include empirical industrial organization and applied microeconometrics.
+I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). My research interests include **environmental economics** and **applied econometrics**. I am currently visiting Rafael Araujo at **FGV-EESP** in S\tilde{a}o Paulo.
 
 <br>
 
 **Contact Information:**
 
-Email: ulrich [dot] wohak [at] wu [dot] ac [dot] at
+Email: [lvashold (at) wu.ac.at Text](mailto:lvashold@wu.ac.at)
+
