@@ -12,7 +12,7 @@ author_profile: true
   </tr>
 </table>
 
-I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). My research revolves around applying **econometric methods** to investigate **environmental** issues, including deforestation dynamics, environmental impacts of mining and other industries, and projecting greenhouse gas emissions.
+I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). In my research I apply **econometric methods** to investigate **environmental issues**, including deforestation dynamics in the tropics, environmental impacts of mining and other industries, and projecting greenhouse gas emissions.
 
 I am also Senior Data Scientist at [World Data Lab](https://worlddata.io/), where I am the Data Lead for the [World Emissions Clock](https://worldemissions.io/).
 
@@ -23,5 +23,5 @@ I am currently visiting Rafael Araujo at **FGV-EESP** in S&#227;o Paulo until mi
 
 **Contact Information:**
 
-Email: [lvashold (at) wu.ac.at](mailto:lvashold@wu.ac.at)
+Email: [lukas (dot) vashold (at) wu (dot) ac (dot) at](mailto:lvashold@wu.ac.at)
 
