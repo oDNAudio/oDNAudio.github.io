@@ -12,7 +12,7 @@ author_profile: true
   </tr>
 </table>
 
-I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). My research interests include **environmental economics** and **applied econometrics**. I am currently visiting Rafael Araujo at **FGV-EESP** in S\tilde{a}o Paulo.
+I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). My research interests include **environmental economics** and **applied econometrics**. I am currently visiting Rafael Araujo at **FGV-EESP** in S&#227;o Paulo.
 
 <br>
 
