@@ -7,16 +7,18 @@ author_profile: true
 
 <table style="width: 120%;">
   <tr>
-	<td style="width: 90%; border-bottom:0px;"><h1>Welcome.</h1></td>
+	<td style="width: 90%; border-bottom:0px;"><h1>Welcome to my webpage.</h1></td>
 	<td style="width: 200%; border-bottom:0px;"><img src="assets/images/logo_wu_vienna"/></td>
   </tr>
 </table>
 
-I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). My research interests include **environmental economics** and **applied econometrics**. I am currently visiting Rafael Araujo at **FGV-EESP** in S\tilde{a}o Paulo.
+I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). My research interests include **environmental economics** and **applied econometrics**. I am currently visiting Rafael Araujo at **FGV-EESP** in S&#227;o Paulo.
+
+I am also Senior Data Scientist at [World Data Lab](https://worlddata.io/), where I am the Data Lead for the [World Emissions Clock](https://worldemissions.io/).
 
 <br>
 
 **Contact Information:**
 
-Email: [lvashold (at) wu.ac.at Text](mailto:lvashold@wu.ac.at)
+Email: [lvashold (at) wu.ac.at](mailto:lvashold@wu.ac.at)
 
