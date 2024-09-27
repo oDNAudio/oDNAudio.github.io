@@ -1,8 +1,8 @@
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
-title: "Ulrich Wohak"
+title: "Lukas Vashold"
 subtitle: ""
-author: "Ulrich Wohak"
+author: "Lukas Vashold"
 defaults:
   # _posts
   - scope:

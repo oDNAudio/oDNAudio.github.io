@@ -1,14 +1,14 @@
-Ulrich Wohak:
+Lukas Vashold:
   bio         : "PhD Candidate @ WU Vienna"
   avatar      : "/assets/images/profile_pic.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ulrich.wohak@wu.ac.at"
+      url: "mailto:lukas.vashold@wu.ac.at"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ulrichwohak"
+      url: "https://github.com/oDNAudio"
     - label: "Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.at/citations?user=MSlSSj0AAAAJ&hl=en&oi=ao"
+      url: "https://scholar.google.com/citations?hl=en&user=to1R9B8AAAAJ"
 
