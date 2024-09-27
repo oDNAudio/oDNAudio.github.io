@@ -14,7 +14,7 @@ author_profile: true
 
 I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). My research interests include **environmental economics** and **applied econometrics**. I am currently visiting Rafael Araujo at **FGV-EESP** in S&#227;o Paulo.
 
-I am also Senior Data Scientist at [World Data Lab](url:https://worlddata.io/), where I am the Data Lead for the [World Emissions Clock](url:https://worldemissions.io/).
+I am also Senior Data Scientist at [World Data Lab](https://worlddata.io/), where I am the Data Lead for the [World Emissions Clock](https://worldemissions.io/).
 
 <br>
 
