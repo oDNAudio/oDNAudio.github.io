@@ -4,33 +4,26 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**Regular Teaching**
+**Bachelor Level**
 
-- Econometrics II (Fall 2023, Vienna University of Economics and Business)
+- International Macroeconomics (Various terms 2021--2024, WU Vienna)
 
-- Econometrics III (Spring 2022, Vienna University of Economics and Business)
+- Applied Econometrics (Spring 2021 & 2023, WU Vienna)
 
-- Econometrics I (Fall 2021, Fall 2022, Vienna University of Economics and Business)
 
-- Industrial Organization (Spring 2021, Spring 2022, Vienna University of Economics and Business)
+**Master Level**
 
-- Coding 1: Data Management and Analysis with Python (Fall 2023, Central European University)
+- Advanced Macroeconometrics (Spring 2022 & 2023, WU Vienna)
 
-- Coding 1: Data Management and Analysis with R (Fall 2022, Central European University)
+- Spatial Economics (Spring 2024, WU Vienna)
 
-**Teaching assistance**
 
-- Data Analysis IV: Causal Analysis (Winter 2021, Winter 2022, Central European University)
+**Teaching Assistance (Master Level)**
 
-- Coding for Economists (Winter 2021, Winter 2022, Central European University)
+- Probability and Statistics (Fall 2018, WU Vienna)
 
-- Microeconomics for Economic Policy (Fall 2021, Fall 2022, Central European University)
+- Advanced Macroeconometrics (Spring 2020, WU Vienna)
 
-**Awards**
+- International Economics (Fall 2020, WU Vienna)
 
-- Recipient of CEEPUS CIII-AT-0068 Teaching Stipend for teaching visit at the University of Montenegro
-
-- Recipient of the *Best Teacher Award*, 2022-2023 Academic Year in the MS Business Analytics program
-
-- Recipient of the *Outstanding Teaching Assistant Award*, 2021-2022 Academic Year in the MA Economic Policy program at CEU
-
+- Econometrics I (Fall 2021, Central European University)
