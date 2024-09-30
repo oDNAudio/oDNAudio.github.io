@@ -7,7 +7,7 @@ permalink: /research/
 ## Work in Progress
 
 
-***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation.*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_KV.pdf)
+***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_KV.pdf)
 <details>
   <summary>Abstract</summary>
   <p align="justify">Demand for agricultural products is a major driver of deforestation in the Brazilian Amazon. However, the extent of their deforestation impact is contested, as deforested land is relatively unproductive, and many products are barred from agriculture supply chains. In this paper, we quantify the deforestation impacts of expanding agricultural production, differentiating it from other channels with different implications for economic and environmental policy. We use a shift-share design, exploiting international changes in beef consumption to causally identify the deforestation impact of agricultural demand. We find that pasture and cattle herd expansions are major direct drivers of deforestation. Their direct impacts diminished during the recent deforestation boom, suggesting that land speculation motives have become more important. Our findings indicate that intensification and improved land tenure security could help decrease land pressure, but also highlight that deforestation interventions need to target the dominant role of agricultural production. </p>
@@ -31,7 +31,7 @@ permalink: /research/
 
 ---
 
-***The Saturated Bayesian: A Probabilistic Break Detection Framework***, with [Lucas D Konrad](https://www.wu.ac.at/en/economics/people/konrad-l) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j).
+***The Saturated Bayesian: A Probabilistic Break Detection Framework*** with [Lucas D Konrad](https://www.wu.ac.at/en/economics/people/konrad-l) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j).
 <details>
   <summary>Abstract</summary>
   <p align="justify">Effectively tackling contemporary challenges posed by climate change and the continued degradation of natural habitats requires swift and decisive actions. Identifying the most effective policies (or a mix thereof) is crucial to inform policy-makers that are often constrained in their choice set. Traditional methods for policy evaluation rely on precise knowledge about the occurrence and timing of interventions. Structural break identification on the other hand has a long tradition in the field of econometrics. Recent approaches cast the search for such breaks in the form of indicator-saturated regressions, identifying step-shifts in relevant time series, but lack a proper framework of uncertainty quantification. We introduce a coherent probabilistic framework for the detection of structural breaks with unknown timing in panel data. The proposed Bayesian setup naturally incorporates the quantification of break uncertainty with little overhead. Simulation studies demonstrate that our approach is competitive to existing approaches in detecting true positives and drastically reduces false positives. We apply our method to replicate studies on the effectiveness of climate policies in the European transport sector and provide novel insights in the dynamics of deforestation in the tropics.</p>
@@ -39,7 +39,7 @@ permalink: /research/
 
 ---
 
-***The heterogeneous effects of macroprudential policies in Central, Eastern, and Southeastern Europe***, Master thesis, *R&R at Economic Modelling*. [WP (pdf)](files/wp_macropru-heterogneity-cesee_V.pdf)
+***The heterogeneous effects of macroprudential policies in Central, Eastern, and Southeastern Europe*** (master thesis), *R&R at Economic Modelling*. [WP (pdf)](files/wp_macropru-heterogneity-cesee_V.pdf)
 <details>
   <summary>Abstract</summary>
   <p align="justify">The effects of macroprudential policy (MPP) are of great interest to policy-makers, given their goal to maintain financial stability and safeguarding the broader macroeconomic environment. Structural characteristics of countries likely mediate these effects, but there is a lack of empirical evidence about the heterogeneous effects of MPPs. We study the dynamic responses to a tightening macroprudential shock for countries in Central, Eastern, and Southeastern Europe (CESEE), a region that experienced periods of pronounced macrofinancial boom-bust cycles and adopted MPPs comparatively early. We employ a hierarchical Bayesian panel vector autoregressive model to allow for joint analysis of multiple economies while explicitly acknowledging heterogeneities across them. We find that MPPs are effective in curbing credit growth and reduced capital inflows in CESEE. However, responses differ considerably across countries, especially for cross-border capital flows. We investigate the impact of structural characteristics and find that the exchange rate regime, the level of financial development, and the external openness of countries play key roles in shaping the effects of MPPs.</p>
