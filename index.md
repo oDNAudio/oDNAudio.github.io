@@ -12,7 +12,7 @@ author_profile: true
   </tr>
 </table>
 
-<p align="justify">I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). In my research I apply **econometric methods** to investigate **environmental issues**, including deforestation dynamics in the tropics, environmental impacts of mining and other industries, and projecting greenhouse gas emissions.</p>
+I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). In my research I apply **econometric methods** to investigate **environmental issues**, including deforestation dynamics in the tropics, environmental impacts of mining and other industries, and projecting greenhouse gas emissions.
 
 <!-- I am also Senior Data Scientist at [World Data Lab](https://worlddata.io/), where I am the Data Lead for the [World Emissions Clock](https://worldemissions.io/). -->
 
