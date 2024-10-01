@@ -22,5 +22,5 @@ I am currently visiting Rafael Araujo at **FGV-EESP** in S&#227;o Paulo until mi
 
 **Contact Information:**
 
-Email: lukas (dot) vashold (at) wu (dot) ac (dot) at
+Email: [lukas.vashold@wu.ac.at](mailto:lukas.vashold@wu.ac.at)
 
