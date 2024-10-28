@@ -14,7 +14,7 @@ author_profile: true
 
 I am a PhD candidate in Economics at the Vienna University of Economics and Business (WU Wien). In my research I apply **econometric methods** to investigate **environmental issues**, including deforestation dynamics in the tropics, environmental impacts of mining and other industries, and the projection of greenhouse gas emissions as well as potentially effective mitigation strategies.
 
-<!-- I am also Senior Data Scientist at [World Data Lab](https://worlddata.io/), where I am the Data Lead for the [World Emissions Clock](https://worldemissions.io/). -->
+I am also **Data Lead** for the [World Emissions Clock](https://worldemissions.io/), an interactive webtool to inform on country- and sector-specific emissions and their potential future trajectories, developed by the **World Data Lab**.
 
 I am currently visiting [Rafael Araujo](https://rafaelcraraujo.github.io/) at **FGV-EESP** in S&#227;o Paulo until mid-December.
 
