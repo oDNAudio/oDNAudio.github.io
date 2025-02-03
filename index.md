@@ -16,8 +16,6 @@ I am a **PhD candidate in Economics** at the Vienna University of Economics and 
 
 I am also **Data Lead** for the [World Emissions Clock](https://worldemissions.io/), an interactive webtool to inform on country- and sector-specific emissions and their potential future trajectories, developed by the **World Data Lab**.
 
-I am currently visiting [Rafael Araujo](https://rafaelcraraujo.github.io/) at **FGV-EESP** in S&#227;o Paulo until mid-December.
-
 <br>
 
 **Contact Information:**

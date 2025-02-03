@@ -15,7 +15,7 @@ permalink: /research/
 
 ---
 
-***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *Under Review*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK.pdf)
+***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at Nature Sustainability*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK.pdf)
 <details>
   <summary>Abstract</summary>
   <p align="justify">Mining provides crucial materials for the global economy and the climate transition, but has potentially severe adverse environmental and social impacts. Currently, the analysis of such impacts is obstructed by the poor availability of data on mining activity — particularly in regions most affected. In this paper, we present a novel panel dataset of mining areas in the tropical belt from 2016 to 2024. We use a transformer-based segmentation model, trained on an extensive dataset of mining polygons from the literature, to automatically delineate mining areas in satellite imagery over time. The resulting dataset features improved accuracy and reduced noise from human errors, and can readily be extended to cover new locations and points in time as they become available. Our comprehensive dataset of mining areas can be used to assess local environmental, social, and economic impacts of mining activity in regions where conventional data is not available or incomplete. </p>
@@ -23,7 +23,7 @@ permalink: /research/
 
 ---
 
-***Mines–Rivers–Yields: Downstream Mining Impacts on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *Under Review*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [WP (pdf)](files/wp_mines-rivers-yields_VPHK.pdf)
+***Mines–Rivers–Yields: Downstream Mining Impacts on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at the Journal of Development Economics*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [WP (pdf)](files/wp_mines-rivers-yields_VPHK.pdf)
 <details>
   <summary>Abstract</summary>
   <p align="justify">Minerals are essential to fuel the green transition, can foster local employment and facilitate economic development. But their extraction is also linked to several negative social and environmental externalities. Our understanding of these adverse impacts is especially limited in low-income countries, undermining our ability to manage them. In this paper, we use remotely sensed data to shine a light on the impacts of mine runoffs on agricultural yields in Africa. We use a discontinuity from mine locations along river basins to identify the causal effect that is mediated by water. Both agricultural yields and vegetation health in general are reduced considerably downstream of mines. Effects are economically significant and dissipate after about 100 kilometers, suggesting sediment as a possible cause. Our findings underscore an urgent need to better address polluting industries in a development context to limit their negative externalities for agriculture.</p>
@@ -39,7 +39,7 @@ permalink: /research/
 
 ---
 
-***The heterogeneous effects of macroprudential policies in Central, Eastern, and Southeastern Europe*** (master thesis), *R&R at Economic Modelling*. [WP (pdf)](files/wp_macropru-heterogneity-cesee_V.pdf)
+***The heterogeneous effects of macroprudential policies in Central, Eastern, and Southeastern Europe*** (master thesis), *R&R at Economic Modelling*. [WP (pdf)](files/wp_macropru-heterogneity-cesee_V.pdf)
 <details>
   <summary>Abstract</summary>
   <p align="justify">The effects of macroprudential policy (MPP) are of great interest to policy-makers, given their goal to maintain financial stability and safeguarding the broader macroeconomic environment. Structural characteristics of countries likely mediate these effects, but there is a lack of empirical evidence about the heterogeneous effects of MPPs. We study the dynamic responses to a tightening macroprudential shock for countries in Central, Eastern, and Southeastern Europe (CESEE), a region that experienced periods of pronounced macrofinancial boom-bust cycles and adopted MPPs comparatively early. We employ a hierarchical Bayesian panel vector autoregressive model to allow for joint analysis of multiple economies while explicitly acknowledging heterogeneities across them. We find that MPPs are effective in curbing credit growth and reduced capital inflows in CESEE. However, responses differ considerably across countries, especially for cross-border capital flows. We investigate the impact of structural characteristics and find that the exchange rate regime, the level of financial development, and the external openness of countries play key roles in shaping the effects of MPPs.</p>
