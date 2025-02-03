@@ -6,24 +6,13 @@ permalink: /research/
 
 ## Work in Progress
 
-
 ***Mines–Rivers–Yields: Downstream Mining Impacts on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at the Journal of Development Economics*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [WP (pdf)](files/wp_mines-rivers-yields_VPHK.pdf)
 <details>
   <summary>Abstract</summary>
-  <p align="justify">Mining provides crucial materials for the global economy and the climate transition, but can have severe environmental and social impacts. Current analyses of these impacts are limited by a lack of data on mining activity, particularly in the regions most affected. In this paper, we present a novel panel dataset mapping mining sites along the tropical belt from 2016 to 2024. Our approach uses a machine learning model, trained on over 25,000 mining polygons from the literature, to automatically segment mining areas in high-resolution (<5 m) satellite imagery. The dataset maps over 145,000 mining polygons covering an average area of 65,000 km<sup>2</sup> annually, with an accuracy of 87.7% and precision of 84.1%. Our approach allows for accurate, precise, and consistent delineation, and can be scaled to new locations and periods. The dataset enables detailed analyses of local environmental, social, and economic impacts of mining in regions where conventional data is scarce or incomplete.</p>
+  <p align="justify">Minerals are essential to fuel the green transition, can foster local employment and facilitate economic development. However, their extraction is linked to several negative social and environmental externalities. These are particularly poorly understood in a development context, undermining efforts to address and internalize them. In this paper, we exploit the discontinuous locations of mines along rivers and their basins to identify causal effects on agricultural yields in Africa. We find considerable impacts on vegetation and yields downstream, which are mediated by water pollution and only dissipate slowly with distance. Our findings suggest that pollution from mines may play a role in the limited adoption of intensive agriculture. They underscore an urgent need for domestic regulations and international governance to limit negative externalities from mining in vulnerable regions.</p>
 </details>
 
 ---
-
-
-***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at Nature Sustainability*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK.pdf)
-<details>
-  <summary>Abstract</summary>
-  <p align="justify">Mining provides crucial materials for the global economy and the climate transition, but has potentially severe adverse environmental and social impacts. Currently, the analysis of such impacts is obstructed by the poor availability of data on mining activity — particularly in regions most affected. In this paper, we present a novel panel dataset of mining areas in the tropical belt from 2016 to 2024. We use a transformer-based segmentation model, trained on an extensive dataset of mining polygons from the literature, to automatically delineate mining areas in satellite imagery over time. The resulting dataset features improved accuracy and reduced noise from human errors, and can readily be extended to cover new locations and points in time as they become available. Our comprehensive dataset of mining areas can be used to assess local environmental, social, and economic impacts of mining activity in regions where conventional data is not available or incomplete. </p>
-</details>
-
----
-
 
 ***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_LACEA-LAMES2411.pdf), *WP coming soon*
 <details>
@@ -33,6 +22,13 @@ permalink: /research/
 
 ---
 
+***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at Nature Sustainability*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK.pdf)
+<details>
+  <summary>Abstract</summary>
+  <p align="justify">Mining provides crucial materials for the global economy and the climate transition, but can have severe environmental and social impacts. Current analyses of these impacts are limited by a lack of data on mining activity, particularly in the regions most affected. In this paper, we present a novel panel dataset mapping mining sites along the tropical belt from 2016 to 2024. Our approach uses a machine learning model, trained on over 25,000 mining polygons from the literature, to automatically segment mining areas in high-resolution (<5 m) satellite imagery. The dataset maps over 145,000 mining polygons covering an average area of 65,000 km<sup>2</sup> annually, with an accuracy of 87.7% and precision of 84.1%. Our approach allows for accurate, precise, and consistent delineation, and can be scaled to new locations and periods. The dataset enables detailed analyses of local environmental, social, and economic impacts of mining in regions where conventional data is scarce or incomplete.</p>
+</details>
+
+---
 
 ***The Saturated Bayesian: A Probabilistic Break Detection Framework*** with [Lucas D Konrad](https://www.wu.ac.at/en/economics/people/konrad-l) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j)
 <details>
