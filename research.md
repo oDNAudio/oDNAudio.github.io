@@ -7,13 +7,14 @@ permalink: /research/
 ## Work in Progress
 
 
-***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_LACEA-LAMES2411.pdf), *WP coming soon*
+***Mines–Rivers–Yields: Downstream Mining Impacts on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at the Journal of Development Economics*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [WP (pdf)](files/wp_mines-rivers-yields_VPHK.pdf)
 <details>
   <summary>Abstract</summary>
-  <p align="justify">Vast areas of the Brazilian Amazon are converted to pasture, threatening the global climate and the country's agricultural productivity. Yet, the deforestation impact of cattle production itself remains contested, as cattle and pasture serve as the main intermediary for land appropriation. %, and its role is overshadowed by agricultural products. In this paper, we quantify the impact of the expanding cattle herds on deforestation, exploiting information on pre-existing production patterns and international consumption changes for causal identification. We show that the expansion of cattle herds is a major and immediate driver of deforestation. This effect far exceeds deforestation for speculative land appropriation that is not related to beef production. We do find that intensification and improved land tenure could help decrease land pressure marginally, but they cannot offset the land use requirements of beef production. Our findings highlight an urgent need to evaluate the policy implications of beef production and consumption to address their deforestation impacts. </p>
+  <p align="justify">Mining provides crucial materials for the global economy and the climate transition, but can have severe environmental and social impacts. Current analyses of these impacts are limited by a lack of data on mining activity, particularly in the regions most affected. In this paper, we present a novel panel dataset mapping mining sites along the tropical belt from 2016 to 2024. Our approach uses a machine learning model, trained on over 25,000 mining polygons from the literature, to automatically segment mining areas in high-resolution (<5 m) satellite imagery. The dataset maps over 145,000 mining polygons covering an average area of 65,000 km<sup>2</sup> annually, with an accuracy of 87.7% and precision of 84.1%. Our approach allows for accurate, precise, and consistent delineation, and can be scaled to new locations and periods. The dataset enables detailed analyses of local environmental, social, and economic impacts of mining in regions where conventional data is scarce or incomplete.</p>
 </details>
 
 ---
+
 
 ***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at Nature Sustainability*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK.pdf)
 <details>
@@ -23,13 +24,15 @@ permalink: /research/
 
 ---
 
-***Mines–Rivers–Yields: Downstream Mining Impacts on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at the Journal of Development Economics*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [WP (pdf)](files/wp_mines-rivers-yields_VPHK.pdf)
+
+***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_LACEA-LAMES2411.pdf), *WP coming soon*
 <details>
   <summary>Abstract</summary>
-  <p align="justify">Minerals are essential to fuel the green transition, can foster local employment and facilitate economic development. But their extraction is also linked to several negative social and environmental externalities. Our understanding of these adverse impacts is especially limited in low-income countries, undermining our ability to manage them. In this paper, we use remotely sensed data to shine a light on the impacts of mine runoffs on agricultural yields in Africa. We use a discontinuity from mine locations along river basins to identify the causal effect that is mediated by water. Both agricultural yields and vegetation health in general are reduced considerably downstream of mines. Effects are economically significant and dissipate after about 100 kilometers, suggesting sediment as a possible cause. Our findings underscore an urgent need to better address polluting industries in a development context to limit their negative externalities for agriculture.</p>
+  <p align="justify">Vast areas of the Brazilian Amazon are converted to pasture, threatening the global climate and the country's agricultural productivity. Yet, the deforestation impact of cattle production itself remains contested, as cattle and pasture serve as the main intermediary for land appropriation. %, and its role is overshadowed by agricultural products. In this paper, we quantify the impact of the expanding cattle herds on deforestation, exploiting information on pre-existing production patterns and international consumption changes for causal identification. We show that the expansion of cattle herds is a major and immediate driver of deforestation. This effect far exceeds deforestation for speculative land appropriation that is not related to beef production. We do find that intensification and improved land tenure could help decrease land pressure marginally, but they cannot offset the land use requirements of beef production. Our findings highlight an urgent need to evaluate the policy implications of beef production and consumption to address their deforestation impacts. </p>
 </details>
 
 ---
+
 
 ***The Saturated Bayesian: A Probabilistic Break Detection Framework*** with [Lucas D Konrad](https://www.wu.ac.at/en/economics/people/konrad-l) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j)
 <details>
@@ -42,7 +45,7 @@ permalink: /research/
 ***The heterogeneous effects of macroprudential policies in Central, Eastern, and Southeastern Europe*** (master thesis), *R&R at Economic Modelling*. [WP (pdf)](files/wp_macropru-heterogneity-cesee_V.pdf)
 <details>
   <summary>Abstract</summary>
-  <p align="justify">The effects of macroprudential policy (MPP) are of great interest to policy-makers, given their goal to maintain financial stability and safeguarding the broader macroeconomic environment. Structural characteristics of countries likely mediate these effects, but there is a lack of empirical evidence about the heterogeneous effects of MPPs. We study the dynamic responses to a tightening macroprudential shock for countries in Central, Eastern, and Southeastern Europe (CESEE), a region that experienced periods of pronounced macrofinancial boom-bust cycles and adopted MPPs comparatively early. We employ a hierarchical Bayesian panel vector autoregressive model to allow for joint analysis of multiple economies while explicitly acknowledging heterogeneities across them. We find that MPPs are effective in curbing credit growth and reduced capital inflows in CESEE. However, responses differ considerably across countries, especially for cross-border capital flows. We investigate the impact of structural characteristics and find that the exchange rate regime, the level of financial development, and the external openness of countries play key roles in shaping the effects of MPPs.</p>
+  <p align="justify">The effects of macroprudential policies are of paramount interest to policy-makers that seek to maintain financial stability. Structural characteristics of countries likely mediate these effects and potentially drive heterogeneities in them. We study the dynamic responses to  macroprudential shocks for countries in Central, Eastern, and Southeastern Europe, which were exposed to pronounced macrofinancial boom-bust cycles and adopted such measures comparatively early. We find that a macroprudential tightening curbs credit growth and reduces capital inflows but responses differ considerably across countries, especially for cross-border capital flows. Structural characteristics such as the exchange rate regime, the level of financial development, or the external openness of countries play key roles in shaping the effects of macroprudential policies. These mediating factors should be considered by policy-makers aiming to preserve financial stability, together with the appropriate choice from the set of prudential regulations at their disposal.</p>
 </details>
 
 
