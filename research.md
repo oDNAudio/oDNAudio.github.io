@@ -14,6 +14,14 @@ permalink: /research/
 
 ---
 
+***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at Nature Sustainability*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK.pdf)
+<details>
+  <summary>Abstract</summary>
+  <p align="justify">Mining provides crucial materials for the global economy and the climate transition, but can have severe environmental and social impacts. Current analyses of these impacts are limited by a lack of data on mining activity, particularly in the regions most affected. In this paper, we present a novel panel dataset mapping mining sites along the tropical belt from 2016 to 2024. Our approach uses a machine learning model, trained on over 25,000 mining polygons from the literature, to automatically segment mining areas in high-resolution (<5 m) satellite imagery. The dataset maps over 145,000 mining polygons covering an average area of 65,000 km<sup>2</sup> annually, with an accuracy of 87.7% and precision of 84.1%. Our approach allows for accurate, precise, and consistent delineation, and can be scaled to new locations and periods. The dataset enables detailed analyses of local environmental, social, and economic impacts of mining in regions where conventional data is scarce or incomplete.</p>
+</details>
+
+---
+
 ***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_LACEA-LAMES2411.pdf), *WP coming soon*
 <details>
   <summary>Abstract</summary>
@@ -22,10 +30,10 @@ permalink: /research/
 
 ---
 
-***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at Nature Sustainability*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK.pdf)
+***Butchering Environment and Health: Impacts of Slaughterhouse Openings in Brazil***, *WP coming soon*
 <details>
   <summary>Abstract</summary>
-  <p align="justify">Mining provides crucial materials for the global economy and the climate transition, but can have severe environmental and social impacts. Current analyses of these impacts are limited by a lack of data on mining activity, particularly in the regions most affected. In this paper, we present a novel panel dataset mapping mining sites along the tropical belt from 2016 to 2024. Our approach uses a machine learning model, trained on over 25,000 mining polygons from the literature, to automatically segment mining areas in high-resolution (<5 m) satellite imagery. The dataset maps over 145,000 mining polygons covering an average area of 65,000 km<sup>2</sup> annually, with an accuracy of 87.7% and precision of 84.1%. Our approach allows for accurate, precise, and consistent delineation, and can be scaled to new locations and periods. The dataset enables detailed analyses of local environmental, social, and economic impacts of mining in regions where conventional data is scarce or incomplete.</p>
+  <p align="justify">The establishment of industrial plants is an important impetus for the local economy but can also impose substantial adverse externalities on their surroundings. These negative externalities can be induced by the operation of the plant itself but also by the behavior of economic agents in the vicinity. I assess these impacts in the context of the Brazilian beef industry. In particular, I use precise data on the location and operations of industrial slaughterhouses in a differences-in-differences framework to estimate the causal effects of their opening on health and environmental outcomes. I find that the opening of a slaughterhouse is associated with a transitory increase in hospitalizations and mortalities due to respiratory diseases in nearby municipalities. These effects are mediated through elevated air pollution levels associated with an increase in the frequency and extent of forest fires related to land clearings for cattle pasture. These findings highlight a hitherto neglected dimension of adverse impacts of the Brazilian beef industry and provides evidence for the potential of industrial plants to induce harmful behavior in their vicinity.</p>
 </details>
 
 ---
@@ -36,16 +44,16 @@ permalink: /research/
   <p align="justify">Effectively tackling contemporary challenges posed by climate change and the continued degradation of natural habitats requires swift and decisive actions. Identifying the most effective policies (or a mix thereof) is crucial to inform policy-makers that are often constrained in their choice set. Traditional methods for policy evaluation rely on precise knowledge about the occurrence and timing of interventions. Structural break identification on the other hand has a long tradition in the field of econometrics. Recent approaches cast the search for such breaks in the form of indicator-saturated regressions, identifying step-shifts in relevant time series, but lack a proper framework of uncertainty quantification. We introduce a coherent probabilistic framework for the detection of structural breaks with unknown timing in panel data. The proposed Bayesian setup naturally incorporates the quantification of break uncertainty with little overhead. Simulation studies demonstrate that our approach is competitive to existing approaches in detecting true positives and drastically reduces false positives. We apply our method to replicate studies on the effectiveness of climate policies in the European transport sector and provide novel insights in the dynamics of deforestation in the tropics.</p>
 </details>
 
----
-
-***The heterogeneous effects of macroprudential policies in Central, Eastern, and Southeastern Europe*** (master thesis), *R&R at Economic Modelling*. [Updated WP (pdf)](files/wp_macropru-heterogeneity-cesee_V_v2.pdf)
-<details>
-  <summary>Abstract</summary>
-  <p align="justify">Macroprudential policies are at the heart of the regulatory toolkit available to policy-makers that seek to maintain financial stability. Their effects on target variables such as credit growth have been studied extensively. Yet, empirical research on their impacts on capital flows and structural characteristics that influence them remains scant. We study the dynamic responses to macroprudential shocks in a region that was exposed to pronounced macrofinancial cycles and where countries adopted such measures comparatively early. A macroprudential tightening curbs credit growth and capital inflows but responses are heterogeneous, especially for the latter. We show that structural characteristics such as the exchange rate regime, the level of financial development, or the external openness of countries shape the effects of macroprudential policies. These mediating factors should be considered by policy-makers aiming to preserve financial stability, together with the appropriate choice from the broader set of regulatory measures at their disposal.</p>
-</details>
-
 
 ## Journal Publications
+
+***Heterogeneous responses of capital flows to macroprudential policies: Evidence from Central, Eastern, and Southeastern Europe***, *Economic Modelling*. [DOI](https://doi.org/10.1016/j.econmod.2025.107173)
+<details>
+  <summary>Abstract</summary>
+  <p align="justify">Macroprudential policies are at the heart of the regulatory toolkit available to policy-makers that seek to maintain financial stability. Their effects on target variables such as credit growth have been studied extensively. Yet, empirical research on their impacts on capital flows and structural characteristics that influence these impacts remains scant. I study the dynamic responses to macroprudential shocks in Central, Eastern, and Southeastern Europe, a region that was exposed to pronounced macrofinancial cycles and where countries adopted counteractive measures comparatively early. A macroprudential tightening curbs credit growth and capital inflows but responses are heterogeneous, especially for the latter. I show that structural characteristics such as the exchange rate regime, the level of financial development, or the external openness of countries shape the effects of macroprudential policies. These mediating factors should be considered by policy-makers aiming to preserve financial stability, together with the appropriate choice from the broader set of regulatory measures at their disposal.</p>
+</details>
+
+---
 
 ***A unified modelling framework for projecting sectoral greenhouse gas emissions.*** Vashold, L., and Crespo Cuaresma, J. (2024). *Communications Earth & Environment*, 5(139). [DOI](https://doi.org/10.1038/s43247-024-01288-9)
 <details>
