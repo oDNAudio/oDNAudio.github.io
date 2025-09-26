@@ -47,7 +47,7 @@ permalink: /research/
 
 ## Journal Publications
 
-***Heterogeneous responses of capital flows to macroprudential policies: Evidence from Central, Eastern, and Southeastern Europe***, *Economic Modelling*. [DOI](https://doi.org/10.1016/j.econmod.2025.107173)
+***Heterogeneous responses of capital flows to macroprudential policies: Evidence from Central, Eastern, and Southeastern Europe.***, Vashold, L. (2025) *Economic Modelling*, 151:107173. [DOI](https://doi.org/10.1016/j.econmod.2025.107173)
 <details>
   <summary>Abstract</summary>
   <p align="justify">Macroprudential policies are at the heart of the regulatory toolkit available to policy-makers that seek to maintain financial stability. Their effects on target variables such as credit growth have been studied extensively. Yet, empirical research on their impacts on capital flows and structural characteristics that influence these impacts remains scant. I study the dynamic responses to macroprudential shocks in Central, Eastern, and Southeastern Europe, a region that was exposed to pronounced macrofinancial cycles and where countries adopted counteractive measures comparatively early. A macroprudential tightening curbs credit growth and capital inflows but responses are heterogeneous, especially for the latter. I show that structural characteristics such as the exchange rate regime, the level of financial development, or the external openness of countries shape the effects of macroprudential policies. These mediating factors should be considered by policy-makers aiming to preserve financial stability, together with the appropriate choice from the broader set of regulatory measures at their disposal.</p>
