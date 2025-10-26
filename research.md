@@ -6,18 +6,10 @@ permalink: /research/
 
 ## Work in Progress
 
-***Mines–Rivers–Yields: Downstream Impacts of Mines on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *R&R at the Journal of Development Economics*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [Updated WP (pdf)](files/wp_mines-rivers-yields_VPHK_v3.pdf)
+***Mines–Rivers–Yields: Downstream Impacts of Mines on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *forthcoming at the Journal of Development Economics*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [Updated WP (pdf)](files/wp_mines-rivers-yields_VPHK_v3.pdf)
 <details>
   <summary>Abstract</summary>
   <p align="justify">Mining operations in Africa are expanding rapidly, creating negative externalities that remain poorly understood. In this paper, we provide causal evidence for the impact of water pollution from mines on downstream vegetation and agriculture across the continent. We exploit a natural experiment, where mines cause a discontinuity in water pollution along river networks, to compare vegetation health in upstream and downstream locations. We find that mines significantly reduce peak vegetation downstream by 1.3-1.5%, impairing the productivity of over 74,000 km<sup>2</sup> of croplands. These reductions correspond to annual losses of 91,000-205,000 tons of cereal crops in the immediate vicinity alone, with particularly severe effects in fertile regions and areas where gold mining predominates. Our findings highlight substantial externalities of mining and demonstrate an urgent need for oversight and regulation.</p>
-</details>
-
----
-
-***Mapping Mining Areas in the Tropics from 2016–2024*** with Philipp Sepin and [Nikolas Kuschnig](https://www.kuschnig.eu/). *conditionally accepted at Nature Sustainability*. [WP (pdf)](files/wp_mapping-mines-tropics_SVK_v2.pdf)
-<details>
-  <summary>Abstract</summary>
-  <p align="justify">Mining provides crucial materials for the global economy and the energy transition but can have severe environmental and social impacts. Available analyses of these impacts are limited by a lack of data on mining activity, particularly in the regions most affected. In this paper, we present a detailed panel dataset mapping mining sites along the tropical belt from 2016 to 2024. Our approach uses a machine learning model, trained on over 25,000 mining polygons from the literature, to automatically segment mining areas in high-resolution (<5 m) satellite imagery. The dataset maps over 145,000 mining polygons covering an average area of 65,000 km<sup>2</sup> annually, with an accuracy of 87.7% and precision of 84.1%. Our approach allows for accurate, precise, and consistent delineation, and can be scaled to other locations and periods. The dataset enables detailed analyses of local environmental, social, and economic impacts of mining in regions where conventional data are scarce or incomplete.</p>
 </details>
 
 ---
@@ -46,6 +38,14 @@ permalink: /research/
 
 
 ## Journal Publications
+
+***Mapping Mining Areas in the Tropics from 2016–2024***, Sepin, P., Vashold, L., and Kuschnig, N. (2025). *Nature Sustainability*. [DOI](https://doi.org/10.1038/s41893-025-01668-9)
+<details>
+  <summary>Abstract</summary>
+  <p align="justify">Mining provides crucial materials for the global economy and the energy transition but can have severe environmental and social impacts. Available analyses of these impacts are limited by a lack of data on mining activity, particularly in the regions most affected. In this paper, we present a detailed panel dataset mapping mining sites along the tropical belt from 2016 to 2024. Our approach uses a machine learning model, trained on over 25,000 mining polygons from the literature, to automatically segment mining areas in high-resolution (<5 m) satellite imagery. The dataset maps over 145,000 mining polygons covering an average area of 65,000 km<sup>2</sup> annually, with an accuracy of 87.7% and precision of 84.1%. Our approach allows for accurate, precise, and consistent delineation, and can be scaled to other locations and periods. The dataset enables detailed analyses of local environmental, social, and economic impacts of mining in regions where conventional data are scarce or incomplete.</p>
+</details>
+
+---
 
 ***Heterogeneous responses of capital flows to macroprudential policies: Evidence from Central, Eastern, and Southeastern Europe.***, Vashold, L. (2025) *Economic Modelling*, 151:107173. [DOI](https://doi.org/10.1016/j.econmod.2025.107173)
 <details>
