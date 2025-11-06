@@ -6,14 +6,6 @@ permalink: /research/
 
 ## Work in Progress
 
-***Mines–Rivers–Yields: Downstream Impacts of Mines on Agriculture in Africa*** with Gustav Pirich, [Maximilian Heinze](https://www.wu.ac.at/en/economics/people/maximilian-h) and [Nikolas Kuschnig](https://www.kuschnig.eu/). *forthcoming at the Journal of Development Economics*. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44), [Updated WP (pdf)](files/wp_mines-rivers-yields_VPHK_v3.pdf)
-<details>
-  <summary>Abstract</summary>
-  <p align="justify">Mining operations in Africa are expanding rapidly, creating negative externalities that remain poorly understood. In this paper, we provide causal evidence for the impact of water pollution from mines on downstream vegetation and agriculture across the continent. We exploit a natural experiment, where mines cause a discontinuity in water pollution along river networks, to compare vegetation health in upstream and downstream locations. We find that mines significantly reduce peak vegetation downstream by 1.3-1.5%, impairing the productivity of over 74,000 km<sup>2</sup> of croplands. These reductions correspond to annual losses of 91,000-205,000 tons of cereal crops in the immediate vicinity alone, with particularly severe effects in fertile regions and areas where gold mining predominates. Our findings highlight substantial externalities of mining and demonstrate an urgent need for oversight and regulation.</p>
-</details>
-
----
-
 ***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_LACEA-LAMES2411.pdf), *WP coming soon*
 <details>
   <summary>Abstract</summary>
@@ -30,14 +22,22 @@ permalink: /research/
 
 ---
 
-***The Saturated Bayesian: A Probabilistic Break Detection Framework*** with [Lucas D Konrad](https://www.wu.ac.at/en/economics/people/konrad-l) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j), *WP coming soon*
+***The Saturated Bayesian: Break Detection in Panel Data with Short Time Horizons*** with [Lucas D Konrad](https://www.wu.ac.at/en/economics/people/konrad-l) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j), *WP coming soon*
 <details>
   <summary>Abstract</summary>
-  <p align="justify">Effectively tackling contemporary challenges posed by climate change and the continued degradation of natural habitats requires swift and decisive actions. Identifying the most effective policies (or a mix thereof) is crucial to inform policy-makers that are often constrained in their choice set. Traditional methods for policy evaluation rely on precise knowledge about the occurrence and timing of interventions. Structural break identification on the other hand has a long tradition in the field of econometrics. Recent approaches cast the search for such breaks in the form of indicator-saturated regressions, identifying step-shifts in relevant time series, but lack a proper framework of uncertainty quantification. We introduce a coherent probabilistic framework for the detection of structural breaks with unknown timing in panel data. The proposed Bayesian setup naturally incorporates the quantification of break uncertainty with little overhead. Simulation studies demonstrate that our approach is competitive to existing approaches in detecting true positives and drastically reduces false positives. We apply our method to replicate studies on the effectiveness of climate policies in the European transport sector and provide novel insights in the dynamics of deforestation in the tropics.</p>
+  <p align="justify">Effectively tackling contemporary challenges posed by climate change and the continued degradation of natural habitats requires swift and decisive actions. Traditional methods for policy evaluation rely on precise knowledge about the occurrence and timing of interventions. Structural break identification on the other hand has a long tradition in the field of econometrics. Recent approaches cast the search for such breaks in the form of indicator-saturated regressions, identifying step-shifts in relevant time series, but lack a proper framework of uncertainty quantification. We introduce a coherent probabilistic framework for the detection of structural breaks with unknown timing in panel data with short time horizons. The proposed Bayesian setup naturally incorporates the quantification of break uncertainty with little overhead. Simulation studies demonstrate that our approach is competitive to existing approaches in detecting true positives and reduces false positives. We apply our method to replicate studies on the effectiveness of climate policies in the European transport sector and for detecting land-use changes in the context of mineral mines.</p>
 </details>
 
 
 ## Journal Publications
+
+***Downstream Impacts of Mines on Agriculture in Africa***, Vashold, L., Pirich, G., Heinze, M., and Kuschnig, N. (2025). *Journal of Development Economics*, 179:103671. [DOI](https://doi.org/10.57938/7598a00e-3d24-4691-823e-aeb76032ae44)
+<details>
+  <summary>Abstract</summary>
+  <p align="justify">Mining operations in Africa are expanding rapidly, creating negative externalities that remain poorly understood. In this paper, we provide causal evidence for the impact of water pollution from mines on downstream vegetation and agriculture across the continent. We exploit a natural experiment, where mines cause a discontinuity in water pollution along river networks, to compare vegetation health in upstream and downstream locations. We find that mines significantly reduce peak vegetation downstream by 1.3-1.5%, impairing the productivity of over 74,000 km<sup>2</sup> of croplands. These reductions correspond to annual losses of 91,000-205,000 tons of cereal crops in the immediate vicinity alone, with particularly severe effects in fertile regions and areas where gold mining predominates. Our findings highlight substantial externalities of mining and demonstrate an urgent need for oversight and regulation.</p>
+</details>
+
+---
 
 ***Mapping Mining Areas in the Tropics from 2016–2024***, Sepin, P., Vashold, L., and Kuschnig, N. (2025). *Nature Sustainability*. [DOI](https://doi.org/10.1038/s41893-025-01668-9)
 <details>
