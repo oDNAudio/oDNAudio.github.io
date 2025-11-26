@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Work in Progress
 
-***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_LACEA-LAMES2411.pdf), *WP coming soon*
+***Man Eats Forest: Impacts of Cattle Ranching on Amazon Deforestation*** with [Nikolas Kuschnig](https://www.kuschnig.eu/). [Slides (pdf)](files/slides_cattle-deforestation-amazon_MEEW2511.pdf), *WP coming soon*
 <details>
   <summary>Abstract</summary>
   <p align="justify">Vast areas of the Brazilian Amazon are converted to pasture, threatening the global climate and Brazil's agricultural productivity. Yet, the deforestation impact of cattle production itself remains contested, as cattle also serve as the main intermediary for land appropriation. In this paper, we quantify the deforestation impacts of expanding cattle herds for beef production. We causally identify this impact by exploiting exogenous changes in international beef consumption and information on pre-existing production patterns. Our findings suggest that the expansion of beef production is a major immediate driver of deforestation. It accounts for 56-70% of observed conversion of forest to pasture, causing the loss of more than 16 million hectares of forest in the past two decades. We further show that impacts vary across governments and biomes as well as that intensification can reduce but not fully offset the impact of cattle ranching. Our results highlight the central role of beef and the multiple roles of cattle in Brazilian environmental policy.</p>
