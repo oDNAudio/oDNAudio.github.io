@@ -14,6 +14,14 @@ permalink: /research/
 
 ---
 
+***The Saturated Bayesian: Break Detection in Panel Data with Short Time Horizons*** with [Lucas D Konrad](https://lucaskonrad.eu/) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j). [Slides (pdf)](files/slides_BBD_UMelb2511.pdf), *WP coming soon*
+<details>
+  <summary>Abstract</summary>
+  <p align="justify">Effectively tackling contemporary challenges posed by climate change and the continued degradation of natural habitats requires swift and decisive actions. Traditional methods for policy evaluation rely on precise knowledge about the occurrence and timing of interventions. Structural break identification on the other hand has a long tradition in the field of econometrics. Recent approaches cast the search for such breaks in the form of indicator-saturated regressions, identifying step-shifts in relevant time series, but lack a proper framework of uncertainty quantification. We introduce a coherent probabilistic framework for the detection of structural breaks with unknown timing in panel data with short time horizons. The proposed Bayesian setup naturally incorporates the quantification of break uncertainty with little overhead. Simulation studies demonstrate that our approach is competitive to existing approaches in detecting true positives and reduces false positives. We apply our method to replicate studies on the effectiveness of climate policies in the European transport sector and for detecting land-use changes in the context of mineral mines.</p>
+</details>
+
+---
+
 ***Butchering Environment and Health: Impacts of Slaughterhouse Openings in Brazil***, *WP coming soon*
 <details>
   <summary>Abstract</summary>
@@ -22,11 +30,11 @@ permalink: /research/
 
 ---
 
-***The Saturated Bayesian: Break Detection in Panel Data with Short Time Horizons*** with [Lucas D Konrad](https://www.wu.ac.at/en/economics/people/konrad-l) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j), *WP coming soon*
-<details>
-  <summary>Abstract</summary>
-  <p align="justify">Effectively tackling contemporary challenges posed by climate change and the continued degradation of natural habitats requires swift and decisive actions. Traditional methods for policy evaluation rely on precise knowledge about the occurrence and timing of interventions. Structural break identification on the other hand has a long tradition in the field of econometrics. Recent approaches cast the search for such breaks in the form of indicator-saturated regressions, identifying step-shifts in relevant time series, but lack a proper framework of uncertainty quantification. We introduce a coherent probabilistic framework for the detection of structural breaks with unknown timing in panel data with short time horizons. The proposed Bayesian setup naturally incorporates the quantification of break uncertainty with little overhead. Simulation studies demonstrate that our approach is competitive to existing approaches in detecting true positives and reduces false positives. We apply our method to replicate studies on the effectiveness of climate policies in the European transport sector and for detecting land-use changes in the context of mineral mines.</p>
-</details>
+***Causal Random Deforestation: A Global REDD+ Evaluation*** with [Lucas D Konrad](https://lucaskonrad.eu/), [Nikolas Kuschnig](https://www.kuschnig.eu/), and [Ulrich Wohak](https://ulrichwohak.eu/), *WP coming soon*
+
+---
+
+***Impacts of fuel prices on air pollution — a global-scale investigation***
 
 
 ## Journal Publications
