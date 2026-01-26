@@ -30,10 +30,6 @@ permalink: /research/
 
 ---
 
-***Causal Random Deforestation: A Global REDD+ Evaluation*** with [Lucas D Konrad](https://lucaskonrad.eu/), [Nikolas Kuschnig](https://www.kuschnig.eu/), and [Ulrich Wohak](https://ulrichwohak.eu/), *WP coming soon*
-
----
-
 ***Impacts of fuel prices on air pollution — a global-scale investigation***
 
 
