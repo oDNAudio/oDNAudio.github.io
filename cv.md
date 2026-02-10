@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Download CV (PDF)](files/cv_vashold_2501.pdf)
+[Download CV (PDF)](files/cv_vashold_2601.pdf)
