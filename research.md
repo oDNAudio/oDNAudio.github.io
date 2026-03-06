@@ -14,10 +14,10 @@ permalink: /research/
 
 ---
 
-***The Saturated Bayesian: Break Detection in Panel Data with Short Time Horizons*** with [Lucas D Konrad](https://lucaskonrad.eu/) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j). [Slides (pdf)](files/slides_BBD_UMelb2511.pdf), *WP coming soon*
+***Bayesian Indicator-Saturated Regression for Climate Policy Evaluation*** with [Lucas D Konrad](https://lucaskonrad.eu/) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j). [WP (arxiv)](https://arxiv.org/abs/2603.04997)
 <details>
   <summary>Abstract</summary>
-  <p align="justify">Effectively tackling contemporary challenges posed by climate change and the continued degradation of natural habitats requires swift and decisive actions. Traditional methods for policy evaluation rely on precise knowledge about the occurrence and timing of interventions. Structural break identification on the other hand has a long tradition in the field of econometrics. Recent approaches cast the search for such breaks in the form of indicator-saturated regressions, identifying step-shifts in relevant time series, but lack a proper framework of uncertainty quantification. We introduce a coherent probabilistic framework for the detection of structural breaks with unknown timing in panel data with short time horizons. The proposed Bayesian setup naturally incorporates the quantification of break uncertainty with little overhead. Simulation studies demonstrate that our approach is competitive to existing approaches in detecting true positives and reduces false positives. We apply our method to replicate studies on the effectiveness of climate policies in the European transport sector and for detecting land-use changes in the context of mineral mines.</p>
+  <p align="justify">Structural break identification methods are an important tool for evaluating the effectiveness of climate change mitigation policies. In this paper, we introduce a unified probabilistic framework for detecting structural breaks with unknown timing and arbitrary sequence in longitudinal data. The proposed Bayesian setup uses indicator-saturated regression and a spike-and-slab prior with an inverse-moment density as the slab component to ensure model selection consistency. Simulation results show that the method outperforms comparable frequentist approaches, particularly in environments with a high probability of structural breaks. We apply the framework to identify and evaluate the effects of climate policies in the European road transport sector.</p>
 </details>
 
 ---
@@ -101,4 +101,13 @@ permalink: /research/
 ***Macroprudential policies in CESEE - an intensity-adjusted approach*** Eller, M., Martin, R., Schuberth, H., and Vashold, L. (2020). *Focus on European Economic Integration*, Oesterreichische Nationalbank. [Paper (pdf)](https://www.oenb.at/dam/jcr:35584f83-a9a2-4608-818e-21953e8ff583/04_PB_feei_Q220_screen_Macroprudential%20policies%20in%20CESEE_korr.pdf)
 
 ***Did macroprudential policies play a role in stabilizing the credit and capital flow cycle in CESEE?*** Eller, M. and Schuberth, H. (2020). In: *30 Years of Transition in Europe*, Edward Elgar. [DOI](https://doi.org/10.4337/9781839109508.00022)
+
+
+<!-- 
+
+## Policy Briefs and Media
+
+-->
+
+
 
