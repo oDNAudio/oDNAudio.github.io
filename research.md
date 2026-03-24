@@ -14,7 +14,7 @@ permalink: /research/
 
 ---
 
-***Bayesian Indicator-Saturated Regression for Climate Policy Evaluation*** with [Lucas D Konrad](https://lucaskonrad.eu/) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j). [WP (arxiv)](https://arxiv.org/abs/2603.04997)
+***Bayesian Indicator-Saturated Regression for Climate Policy Evaluation*** with [Lucas D Konrad](https://lucaskonrad.eu/) and [Jes&#250;s Crespo Cuaresma](https://www.wu.ac.at/en/economics/people/crespo-j). [WP (arxiv)](https://arxiv.org/abs/2603.04997) *Under review*
 <details>
   <summary>Abstract</summary>
   <p align="justify">Structural break identification methods are an important tool for evaluating the effectiveness of climate change mitigation policies. In this paper, we introduce a unified probabilistic framework for detecting structural breaks with unknown timing and arbitrary sequence in longitudinal data. The proposed Bayesian setup uses indicator-saturated regression and a spike-and-slab prior with an inverse-moment density as the slab component to ensure model selection consistency. Simulation results show that the method outperforms comparable frequentist approaches, particularly in environments with a high probability of structural breaks. We apply the framework to identify and evaluate the effects of climate policies in the European road transport sector.</p>
